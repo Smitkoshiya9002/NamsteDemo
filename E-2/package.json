@@ -1,0 +1,24 @@
+{
+  "name": "react-ep-1",
+  "version": "1.0.0",
+  "description": "namste react episode 1",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smitkoshiya9002/NamsteDemo.git"
+  },
+  "author": "smit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smitkoshiya9002/NamsteDemo/issues"
+  },
+  "homepage": "https://github.com/Smitkoshiya9002/NamsteDemo#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
