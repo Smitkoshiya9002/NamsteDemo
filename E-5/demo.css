@@ -1,0 +1,42 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.logo > img {
+  width: 50px;
+}
+
+.nav-items {
+  display: flex;
+  margin: 10px;
+}
+
+.nav-items > div {
+  padding: 15px;
+  font-size: 20px;
+}
+
+.ResCard {
+  border: 1px solid black;
+  background-color: lightgray;
+  width: 220px;
+  height: auto;
+  padding: 5px;
+}
+
+.ResCard > img {
+  width: 100%;
+  height: 140px;
+}
+
+.rescardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
