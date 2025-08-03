@@ -1,0 +1,43 @@
+.Header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.logo > img {
+  width: 50px;
+}
+
+.nav-items {
+  margin: 10px;
+  display: flex;
+}
+
+.nav-items > div {
+  padding: 15px;
+  font-size: 20px;
+}
+
+.ResCard {
+  background-color: #d3d3d3;
+  border: 1px solid #000;
+  width: 200px;
+  height: auto;
+  padding: 5px;
+}
+
+.ResCard > img {
+  width: 100%;
+  height: 150px;
+}
+
+.rescardContainer {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  display: flex;
+}
+/*# sourceMappingURL=demo.a1830c48.css.map */
